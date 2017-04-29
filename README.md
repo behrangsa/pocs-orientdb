@@ -6,4 +6,4 @@ See [POC1.java](https://github.com/behrangsa/pocs-orientdb/blob/master/src/main/
 
 ## PoC 2: Traversing a directory tree and storing it in an OrientDB graph
 
-See [POC1.java](https://github.com/behrangsa/pocs-orientdb/blob/master/src/main/java/org/behrang/poc/odb/POC2.java).
+See [POC2.java](https://github.com/behrangsa/pocs-orientdb/blob/master/src/main/java/org/behrang/poc/odb/POC2.java).
